@@ -1,5 +1,9 @@
 # Codex Router
 
+This is a contribution fork. Read [Viraj's merged upstream contributions](docs/VIRAJ_CONTRIBUTIONS.md)
+for the quota-scope, lifecycle, and tool-schema changes.
+The installation guide below is inherited from upstream.
+
 ## Install everything (recommended)
 
 This is the default setup: **guided provider setup + Electron Control Center +
